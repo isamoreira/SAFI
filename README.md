@@ -25,8 +25,8 @@ Comandos: `/resumo` (agenda de hoje) e `/backup`. O resto é conversa normal.
 ### 1. Baixe o projeto
 
 ```bash
-git clone https://github.com/SEU-USUARIO/agente-rotina.git
-cd agente-rotina
+git clone https://github.com/isamoreira/SAFI.git
+cd SAFI
 ```
 
 ### 2. Crie o ambiente e instale as dependências
