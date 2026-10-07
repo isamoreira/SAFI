@@ -1,0 +1,18 @@
+# Segredos
+token.env
+*.env
+!token.env.example
+
+# Ambiente virtual e cache
+.venv/
+__pycache__/
+*.pyc
+
+# Dados pessoais gerados pelo bot
+agenda.json
+notas.md
+estado.json
+cancelados.json
+excecoes_rotina.json
+freela.csv
+*.tmp
